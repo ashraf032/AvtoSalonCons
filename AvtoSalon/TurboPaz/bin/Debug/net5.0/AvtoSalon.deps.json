@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AvtoSalon/1.0.0": {
+        "dependencies": {
+          "AvtoSalonLib": "1.0.0"
+        },
+        "runtime": {
+          "AvtoSalon.dll": {}
+        }
+      },
+      "AvtoSalonLib/1.0.0": {
+        "runtime": {
+          "AvtoSalonLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AvtoSalon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AvtoSalonLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
